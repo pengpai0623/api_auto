@@ -1,0 +1,239 @@
+[2023-08-23 21:07:58,924] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:07:58,924] [DEBUG] [test_get_topics] 断言status_code:200
+[2023-08-23 21:07:58,924] [DEBUG] [test_get_topics] 断言响应tab值:share
+[2023-08-23 21:08:01,585] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:08:01,585] [DEBUG] [test_get_topics] 断言status_code:200
+[2023-08-23 21:08:01,585] [DEBUG] [test_get_topics] 断言响应tab值:share
+[2023-08-23 21:12:06,451] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:12:06,451] [DEBUG] [test_get_topics] 断言status_code:200
+[2023-08-23 21:12:06,451] [DEBUG] [test_get_topics] 断言响应tab值:share
+[2023-08-23 21:12:06,571] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:12:06,571] [DEBUG] [test_get_topics] 断言status_code:200
+[2023-08-23 21:12:06,571] [DEBUG] [test_get_topics] 断言响应tab值:share
+[2023-08-23 21:13:45,801] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:13:45,801] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:13:45,801] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:13:46,020] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:13:46,020] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:13:46,020] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:20:55,902] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:20:55,902] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:20:55,951] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:20:56,192] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:20:56,201] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:20:56,201] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:26:47,018] [INFO] [<module>] logger2
+[2023-08-23 21:27:33,769] [INFO] [<module>] logger2
+[2023-08-23 21:28:03,646] [INFO] [<module>] logger2
+[2023-08-23 21:28:03,776] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:28:03,776] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:28:03,776] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:28:03,877] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:28:03,877] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:28:03,877] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:32:03,231] [INFO] [<module>] logger2
+[2023-08-23 21:32:03,383] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:32:03,384] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:32:03,385] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:32:03,499] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:32:03,499] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:32:03,499] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:38:07,088] [INFO] [<module>] logger2
+[2023-08-23 21:38:07,419] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:38:07,419] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:38:07,419] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:38:07,749] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:38:07,749] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:38:07,749] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:43:58,923] [INFO] [<module>] logger2
+[2023-08-23 21:43:59,153] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:43:59,153] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:43:59,153] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:43:59,313] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:43:59,313] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:43:59,313] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:49:53,860] [INFO] [<module>] logger2
+[2023-08-23 21:49:54,020] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:49:54,020] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:49:54,020] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-23 21:49:54,110] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-23 21:49:54,110] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-23 21:49:54,110] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:14:16,368] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:14:16,368] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:14:16,368] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:14:16,478] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:14:16,478] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:14:16,478] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:14:33,664] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:14:33,664] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:14:33,664] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:14:33,774] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:14:33,774] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:14:33,774] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:14:51,526] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:14:51,526] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:14:51,526] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:14:51,647] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:14:51,647] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:14:51,647] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:15:33,960] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:15:33,960] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:15:33,960] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:15:34,050] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:15:34,050] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:15:34,050] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:16:07,180] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:16:07,180] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:16:07,230] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:16:07,330] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:16:07,330] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:16:07,340] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:24:58,895] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:24:58,896] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:24:58,896] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:24:58,996] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:24:58,996] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:24:58,997] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:27:23,356] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:27:23,356] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:27:23,356] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:27:23,466] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:27:23,466] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:27:23,466] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:32:20,612] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:32:20,612] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:32:20,612] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:32:20,742] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:32:20,742] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:32:20,742] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:34:03,080] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:34:03,080] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:34:03,080] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:34:03,190] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:34:03,190] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:34:03,190] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:34:51,081] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:34:51,081] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:34:51,081] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:34:51,181] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:34:51,181] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:34:51,181] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:38:25,625] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:38:25,635] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:38:25,635] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:38:25,745] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:38:25,745] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:38:25,745] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:40:20,118] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:40:20,128] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:40:20,128] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:40:20,248] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:40:20,248] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:40:20,248] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:57:12,826] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:57:12,826] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:57:12,826] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 18:57:12,997] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 18:57:12,997] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 18:57:12,997] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:03:09,292] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:03:09,292] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:03:09,292] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:03:09,422] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:03:09,422] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:03:09,422] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:09:19,998] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:09:19,998] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:09:19,998] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:09:20,218] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:09:20,218] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:09:20,218] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:09:20,339] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:09:20,339] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:09:20,339] [DEBUG] [test_get_topics] 断言响应码id:596eb7768f05de0819fdb301
+[2023-08-24 19:09:20,339] [DEBUG] [test_get_topics] 断言响应'data'数据类型:3
+[2023-08-24 19:11:17,364] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:11:17,364] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:11:17,364] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:11:17,485] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:11:17,485] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:11:17,485] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:11:17,605] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:11:17,605] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:11:17,605] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:11:17,605] [DEBUG] [test_get_topics] 断言响应'limit'数量:3
+[2023-08-24 19:14:06,987] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:14:06,987] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:14:06,987] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:14:07,128] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:14:07,128] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:14:07,128] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:14:07,238] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:14:07,238] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:14:07,238] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:14:07,238] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
+[2023-08-24 19:21:34,822] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:21:34,822] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:21:34,822] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:21:34,942] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:21:34,942] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:21:34,942] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:21:35,051] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:21:35,051] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:21:35,051] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:21:35,051] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
+[2023-08-24 19:23:33,536] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:23:33,536] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:23:33,536] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:23:33,646] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:23:33,646] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:23:33,646] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:23:33,766] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:23:33,766] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:23:33,766] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:23:33,766] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
+[2023-08-24 19:24:22,863] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:24:22,863] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:24:22,863] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:24:22,983] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:24:22,983] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:24:22,983] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:24:23,103] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:24:23,103] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:24:23,103] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:24:23,103] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
+[2023-08-24 19:28:47,555] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:28:47,555] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:28:47,555] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:28:47,695] [DEBUG] [test_get_topics] 发送获取topic请求:<Response [200]>
+[2023-08-24 19:28:47,695] [DEBUG] [test_get_topics] 断言status_code:True
+[2023-08-24 19:28:47,705] [DEBUG] [test_get_topics] 断言响应tab值:True
+[2023-08-24 19:28:47,845] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:28:47,845] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:28:47,845] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:28:47,845] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
+[2023-08-24 19:31:43,498] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:31:43,498] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:31:43,507] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:31:43,507] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
+[2023-08-24 19:32:32,419] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:32:32,419] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:32:32,429] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:32:32,429] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
+[2023-08-24 19:35:53,923] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:35:53,923] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:35:53,932] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:35:53,932] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
+[2023-08-24 19:37:36,330] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:37:36,330] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:37:36,330] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:37:36,330] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
+[2023-08-24 19:41:26,785] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:41:26,785] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:41:26,785] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:41:26,795] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
+[2023-08-24 19:48:56,694] [DEBUG] [test_get_topics] 发送请求结果:<Response [200]>
+[2023-08-24 19:48:56,694] [DEBUG] [test_get_topics] 断言响应状态码:200
+[2023-08-24 19:48:56,694] [DEBUG] [test_get_topics] 断言id:596eb7768f05de0819fdb301
+[2023-08-24 19:48:56,694] [DEBUG] [test_get_topics] 断言响应码'limit'数量:3
