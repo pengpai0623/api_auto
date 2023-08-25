@@ -23,3 +23,5 @@ RunTest_windows.bat ============> 测试启动按钮
 
 test ==============>测试修改已提交（未修改）且已跟踪的验证
 test2
+test3
+test4
