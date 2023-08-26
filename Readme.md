@@ -20,7 +20,3 @@ requirements.txt ============> 相关依赖包文件
 main.py =============> 测试用例总执行器
 
 RunTest_windows.bat ============> 测试启动按钮
-
-test`:new_commit
-
-
