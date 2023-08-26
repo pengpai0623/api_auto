@@ -23,9 +23,3 @@ RunTest_windows.bat ============> 测试启动按钮
 
 master:new_commit
 
-test:new_commit
-
-master:master_branch
-
-test:test_branch
-
