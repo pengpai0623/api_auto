@@ -21,4 +21,4 @@ main.py =============> 测试用例总执行器
 
 RunTest_windows.bat ============> 测试启动按钮
 
-test_branch
+test_new:test_branch
