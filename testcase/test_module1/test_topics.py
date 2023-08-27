@@ -32,7 +32,7 @@ class Test_topics:
             assert 200 == res.status_code
             logger.debug(f'断言响应状态码:{res.status_code}')
         with allure.step("断言id"):
-            assert res.json()['data'][0]['id'] == '596eb7768f05de0819fdb301'
+            assert res.json()['data'][0]['id'] == '63fc57a4007208fe309e331e'
             logger.debug(f"断言id:{res.json()['data'][0]['id']}")
         with allure.step("断言响应码'limit'数量"):
             assert len(res.json()['data']) == get_parma['limit']
