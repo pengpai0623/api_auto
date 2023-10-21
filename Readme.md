@@ -21,11 +21,3 @@ pip3 install -r requirements.txt
 main.py =============> 测试用例总执行器
 
 RunTest_windows.bat ============> 测试启动按钮
-
-d1
-<<<<<<< HEAD
-d2
-=======
-
-dev
->>>>>>> dev
