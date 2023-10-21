@@ -16,6 +16,7 @@ report ==========> 测试报告
 conftest.py ============> 存放测试执行的一些fixture配置，实现环境初始化、数据共享以及环境还原等
 
 requirements.txt ============> 相关依赖包文件
+pip3 install -r requirements.txt
 
 main.py =============> 测试用例总执行器
 
